@@ -5,3 +5,5 @@ milk
 chips 
 icecream
 kurkure
+lays
+bingo
