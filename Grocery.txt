@@ -2,3 +2,6 @@ Candy
 chocolate
 butter
 milk
+chips 
+icecream
+kurkure
